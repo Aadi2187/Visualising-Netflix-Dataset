@@ -62,6 +62,8 @@ An interactive **Power BI dashboard** that explores Netflix movies and TV shows 
 - Power Query
 - DAX / custom columns
 
+Authour - Aditya Prajapati 
+
 ## How to Use
 1. Download `NetflixDashboard.pbix`
 2. Open it in Power BI Desktop
